@@ -1,8 +1,10 @@
 # Performance idea
 ## Clue: NYUAD edition
 One of the robots from the performing robots class has been destroyed just hours before the performance!! The remaining robots begin to accuse each other, but Who did it?
+
 Characters: 
 Mr black (the destroyed robot)
+
 The suspects: Colonel Mustard, Reverend Green, Mrs. Scarlett, Miss Peacock, Dr. Orchid, and Professor Plum (we can change the characters, these are just the characters from the board game, each named after a color)
 
 Short outline:

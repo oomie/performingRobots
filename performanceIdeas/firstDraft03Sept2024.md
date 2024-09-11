@@ -14,3 +14,14 @@ The robots begin to state their alibis and start to question and accuse each oth
 The robots start to investigate the scene and find a few potential weapons that the culprit could have used. The robots piece together the clues and with the audience's help, they begin to uncover the mystery, with the evidence pointing to either Mrs Scarlett or Reverend Green. 
 
 The audience votes for who did it (maybe with a show of hands?) and we could have two potential endings based on who they vote as the culprit. 
+
+
+### Alternate idea:
+
+### Scooby Doo Murder Mystery
+
+Characters: Scooby, Velma, Daphne, Fred, Shaggy, and 2 potential villains. (Someone could even build the mystery machine as a set robot!)
+
+The demasking of the villains can be fun - we can make a double-sided robot, possibly with a cape so the back isn't immediately visible before the reveal. For the plot, I think we could take inspiration from an existing episode - there are hundreds to choose from. 
+
+

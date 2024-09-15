@@ -1,4 +1,6 @@
 # performingRobots
 performing robots fall '24!
 
-main repo: https://github.com/michaelshiloh/performingrobots
+[class repo] (https://github.com/michaelshiloh/performingrobots)
+[documentation journal] (https://github.com/oomie/performingRobots/journal.md)
+

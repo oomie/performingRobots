@@ -17,3 +17,18 @@ We then started mapping out how everything would attach to our wooden base. We m
 
 ![WhatsApp Image 2024-09-21 at 6 09 38 PM](https://github.com/user-attachments/assets/43fec2c2-0929-49f2-af6e-09c585de6e6c)
 
+### Sept 26, 2024
+This week's entry is on [sara's repo.](https://github.com/saraalmulla03/performingrobots/blob/main/journal.md) 
+
+### Oct 1, 2024
+Linh's presentation on humanoid robots and theatre.
+
+Question: 
+
+Does the design of a robot, whether mechanical or humanoid, add anything to the story being told? Is a humanoid robot character in a play aware that is a robot, or does it act human?
+
+I don't know if I would like the idea of a humanoid robot acting as a human and not a robot. I think it should be self aware.
+
+Second presentation was by me. 
+[click here to view my presentation.](https://www.canva.com/design/DAGRY8QaHJI/G-hWnsy9o3q1OnZRRqltBQ/view?utm_content=DAGRY8QaHJI&utm_campaign=designshare&utm_medium=link&utm_source=editor
+) 

@@ -4,7 +4,6 @@ Shortcut to [latest entry](journal.md#latest-entry)
 ### Sept 15, 2024
 This week's entry is on [sara's repo.](https://github.com/saraalmulla03/performingrobots/blob/main/journal.md) 
 
-##### latest-entry
 ### Sept 22, 2024
 During Thursday's class this week, we started building our robot base.
 ![IMG_3813](https://github.com/user-attachments/assets/c860dc69-f293-412d-9c6c-97735ab1a3dd)
@@ -32,3 +31,8 @@ I don't know if I would like the idea of a humanoid robot acting as a human and 
 Second presentation was by me. 
 [click here to view my presentation.](https://www.canva.com/design/DAGRY8QaHJI/G-hWnsy9o3q1OnZRRqltBQ/view?utm_content=DAGRY8QaHJI&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ) 
+
+
+##### latest-entry
+### Oct 24, 2024
+This week's entry is on [sara's repo.](https://github.com/saraalmulla03/performingrobots/blob/main/journal.md) 

@@ -29,6 +29,8 @@ Does the design of a robot, whether mechanical or humanoid, add anything to the 
 I don't know if I would like the idea of a humanoid robot acting as a human and not a robot. I think it should be self aware.
 
 Second presentation was by me. 
+Presentation #1: Hiroshi Ishiguro
+
 [click here to view my presentation.](https://www.canva.com/design/DAGRY8QaHJI/G-hWnsy9o3q1OnZRRqltBQ/view?utm_content=DAGRY8QaHJI&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ) 
 
@@ -36,3 +38,11 @@ Second presentation was by me.
 ##### latest-entry
 ### Oct 24, 2024
 This week's entry is on [sara's repo.](https://github.com/saraalmulla03/performingrobots/blob/main/journal.md) 
+
+##### latest-entry
+### Oct 31, 2024
+
+Presentation #2: AI and Emotional Relationships
+
+[click here to view my presentation.](https://www.canva.com/design/DAGUZpEdEds/XerKCHPtYIyW1R9pmvjfgQ/view?utm_content=DAGUZpEdEds&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+

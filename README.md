@@ -8,6 +8,8 @@ toomie's repo for performing robots fall '24!
 
 [latest journal entry](journal.md#latest-entry)
 
+[final reciever code](code/finalRecieverCode.ino)
+
 ### Presentation Links
 
 Presentation #1: Hiroshi Ishiguro
